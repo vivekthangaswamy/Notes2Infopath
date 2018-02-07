@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesToInfopath", "NotesToInfopath.csproj", "{EA42672E-28B0-4911-97D4-27D426372797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoPathCustomMapping", "..\CustomInfoPathMapping\InfoPathCustomMapping.csproj", "{70786B4D-BE7D-4121-A060-D43E3D93FA6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA42672E-28B0-4911-97D4-27D426372797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA42672E-28B0-4911-97D4-27D426372797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA42672E-28B0-4911-97D4-27D426372797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA42672E-28B0-4911-97D4-27D426372797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70786B4D-BE7D-4121-A060-D43E3D93FA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70786B4D-BE7D-4121-A060-D43E3D93FA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70786B4D-BE7D-4121-A060-D43E3D93FA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70786B4D-BE7D-4121-A060-D43E3D93FA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5237F367-6B10-4767-B1AE-1C44C9290B50}
+	EndGlobalSection
+EndGlobal
